@@ -1,0 +1,11 @@
+# Question of the day for Tuesday February 15th
+#What is the command to clear your terminal display
+ctrl l or clear
+#What is the command to delete a file
+rm <filename>
+#What command is used to change directories
+cd
+#what command is used to get the ip address of all interfaces on a server
+ifconfig
+#what command is used to change the ownership of a file??
+chown
