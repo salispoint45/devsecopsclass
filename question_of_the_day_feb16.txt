@@ -1,0 +1,28 @@
+Question of the day: Wednesday February 16th 2022
+#What is the default text editor for the Bash shell with a Windows-based Git install?
+vim
+#Before you install Git, which of the following prerequisite products must be present and configured on your local OS?
+a. Apache Maven
+b. Java Development Kit 1.8 or newer
+c. Nothing
+d. Jarkarta Enterprise compliant web server
+
+Answer = B. Java
+#After you install Git and prior to issuing the first commit, which two configuration properties does the tool expect to be configured?
+
+gitconfig
+ git clone
+ git init
+
+#Who is attributed with the creation of git?
+Linus Torvalds
+#After you initialize a new Git repository and create a file named git-quiz.html, which of the following commands will not work if issued?
+a. git add git-quiz.html
+b. git status
+c. git add .
+d. git commit -m "git quiz web file added"
+
+Answer = a and b 
+
+#Which command should you use to initialize a new Git repository?
+git clone or git init
